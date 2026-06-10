@@ -35,22 +35,3 @@ graph TD
     D -->|Isolates Weather & Climatic Causes| E[🚨 Smart Alert Gateway]
     E -->|Encrypted Transmission| F[🛡️ Verified Official Dashboard]
     G[🪪 Government ID Authentication] -->|Secure Access| F
-🛰️ 1. Temporal Satellite Streaming
-Continuous ingestion of multi-spectral satellite imagery and video data. The platform map-matches specific coordinates across deep historical timelines to flag unauthorized logging, fires, or rapid canopy dieback within seconds.
-
-🧠 2. Climatic Root-Cause Diagnostics
-When a green zone shows stress, the AI doesn't just show that it happened—it analyzes why. By processing local drought indexes, temperature anomalies, and shifting weather patterns, it calculates if a zone is failing due to climate shifts or manual encroachment.
-
-🔐 3. Encrypted Official Gateway
-A dedicated, secure frontend portal built specifically for environmental departments, rangers, and policy officials. Access is gatekept by government-authorized ID generation, ensuring sensitive geographical data and threat vectors remain completely confidential.
-
-🛠️ Project Architecture
-[ INGESTION ] 📡  ────────────────> Ingests multi-spectral orbital data layers
-       │
-[ ANALYSIS ]  🤖  ────────────────> Deep-learning temporal change evaluation
-       │
-[ DIAGNOSING ] 📊  ────────────────> Statistical weather correlation & indexing
-       │
-[ DISPATCH ]  🚨  ────────────────> Instant UI notification generation
-       │
-[ LOG-IN ]    🔐  ────────────────> Government ID validation protocol
