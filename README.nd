@@ -1,37 +1,132 @@
-<p align="center">
-  <img src="logo.png" alt="ZeryRoot-AI Logo" width="280" style="border-radius: 50%; box-shadow: 0 4px 20px rgba(0, 255, 128, 0.2);">
-</p>
+# 🌍 ZeryRoot-AI
 
-<h1 align="center">🌲 ZeryRoot-AI 📡</h1>
+### Rooting Technology in Environmental Intelligence
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AI--Engine-Deep%20Learning-00FF87?style=for-the-badge&logo=artificialintelligence&logoColor=black" alt="AI Engine">
-  <img src="https://img.shields.io/badge/Satellite-Real--Time%20Ingestion-00D2FF?style=for-the-badge&logo=nasa&logoColor=black" alt="Satellite Connection">
-  <img src="https://img.shields.io/badge/Security-Government%20Verified-FF416C?style=for-the-badge&logo=biometrics&logoColor=white" alt="Security Platform">
-</p>
-
-<p align="center">
-  <b>The Global AI Eco-Monitor & Alert Network</b><br>
-  <i>Bridging orbital intelligence and on-the-ground conservation to protect planetary biodiversity.</i>
-</p>
+🛰️ AI-Powered Environmental & Biodiversity Monitoring Platform
 
 ---
 
-## 🌌 The Mission
+## 🌱 About ZeryRoot-AI
 
-Planet Earth is experiencing rapid, unprecedented ecological shifts. Forests that were once thriving ecosystems are facing sudden deforestation, canopy thinning, and severe climate stress. 
+ZeryRoot-AI is an intelligent environmental monitoring system that combines satellite imagery, climate data, and artificial intelligence to track ecosystem health, detect environmental changes, assess biodiversity risks, and generate actionable insights for conservation efforts.
 
-**ZeryRoot-AI** acts as a decentralized digital shield. By establishing a direct pipeline to international space agencies, the network continuously streams high-resolution satellite imagery and real-time orbital video feeds. The underlying AI automatically cross-references historical environmental baselines with incoming live data streams to isolate anomalies, diagnose climatic/weather root causes, and immediately dispatch actionable intelligence to verified government officials and field guards.
+Our mission is simple:
+
+> **Detect. Analyze. Predict. Protect.**
 
 ---
 
-## 🔮 System Core Capabilities
+## 🚨 Problem We Are Solving
 
-```mermaid
-graph TD
-    A[🛰️ Space Agencies / Satellites] -->|Live Imagery & Video| B(🤖 ZeryRoot-AI Engine)
-    C[📊 Historical Eco-Baselines] -->|Temporal Matching| B
-    B -->|Anomalous Degradation Detected| D{🧠 Climate Diagnostic Module}
-    D -->|Isolates Weather & Climatic Causes| E[🚨 Smart Alert Gateway]
-    E -->|Encrypted Transmission| F[🛡️ Verified Official Dashboard]
-    G[🪪 Government ID Authentication] -->|Secure Access| F
+Environmental degradation and biodiversity loss are often detected too late, limiting timely conservation efforts and environmental protection.
+
+---
+
+## 💡 Our Solution
+
+ZeryRoot-AI continuously analyzes:
+
+- 🛰️ Satellite Imagery
+- 🌦️ Climate & Weather Data
+- 🌿 Biodiversity Indicators
+- 🤖 AI-Based Environmental Analysis
+
+to provide:
+
+✅ Environmental Change Detection
+
+✅ Biodiversity Risk Assessment
+
+✅ Early Warning Alerts
+
+✅ Predictive Environmental Intelligence
+
+✅ Real-Time Monitoring Dashboard
+
+---
+
+## ✨ Core Features
+
+### 🛰️ Satellite-Based Monitoring
+Monitor ecosystem changes across large geographical regions.
+
+### 🤖 AI-Powered Analysis
+Identify environmental changes and probable causes.
+
+### ⚠️ Early Warning System
+Predict vulnerable environmental zones before significant damage occurs.
+
+### 📊 Smart Decision Dashboard
+Provide real-time environmental intelligence for authorities and researchers.
+
+---
+
+## 🏗️ Tech Stack
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Leaflet.js
+
+### Backend
+- Python
+- FastAPI
+- REST API
+
+### AI/ML
+- Python
+- OpenCV
+- Scikit-Learn
+
+### Database
+- Firebase
+
+### Data Sources
+- Sentinel-2 Satellite Data
+- Google Earth Engine
+- OpenWeather API
+
+---
+
+## 🎯 Potential Applications
+
+- Forest Monitoring
+- Biodiversity Conservation
+- Environmental Risk Assessment
+- Government Monitoring Systems
+- Conservation Research
+- Climate Impact Analysis
+
+---
+
+## 🚀 Development Status
+
+Current Status:
+
+🔨 Prototype Development
+
+📡 Satellite Integration In Progress
+
+🤖 AI Model Development In Progress
+
+📊 Dashboard Development In Progress
+
+---
+
+## 🌎 Vision
+
+To build an intelligent environmental monitoring ecosystem capable of protecting biodiversity through real-time data, artificial intelligence, and predictive environmental analytics.
+
+---
+
+## 👨‍💻 Developed By
+
+Team ZeryRoot-AI
+
+Environment & Biodiversity Innovation Project
+
+---
+
+> 🌍 "Transforming satellite data into actionable environmental intelligence."
