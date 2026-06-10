@@ -1,14 +1,24 @@
-# 🌍 ZeryRoot-AI
+<p align="center">
+  <img src="Zeryroot.jpeg" alt="ZeryRoot-AI Logo" width="250">
+</p>
 
-### Rooting Technology in Environmental Intelligence
+<h1 align="center">🌍 ZeryRoot-AI</h1>
 
+<h3 align="center">Rooting Technology in Environmental Intelligence</h3>
+
+<p align="center">
 🛰️ AI-Powered Environmental & Biodiversity Monitoring Platform
+</p>
+
+<p align="center">
+🌿 Detect • Analyze • Predict • Protect
+</p>
 
 ---
 
 ## 🌱 About ZeryRoot-AI
 
-ZeryRoot-AI is an intelligent environmental monitoring system that combines satellite imagery, climate data, and artificial intelligence to track ecosystem health, detect environmental changes, assess biodiversity risks, and generate actionable insights for conservation efforts.
+ZeryRoot-AI is an intelligent environmental monitoring platform that combines satellite imagery, climate data, and artificial intelligence to monitor ecosystem health, identify environmental changes, assess biodiversity risks, and generate actionable insights for conservation efforts.
 
 Our mission is simple:
 
@@ -16,7 +26,7 @@ Our mission is simple:
 
 ---
 
-## 🚨 Problem I am Solving
+## 🚨 Problem I Am Solving
 
 Environmental degradation and biodiversity loss are often detected too late, limiting timely conservation efforts and environmental protection.
 
@@ -31,17 +41,13 @@ ZeryRoot-AI continuously analyzes:
 - 🌿 Biodiversity Indicators
 - 🤖 AI-Based Environmental Analysis
 
-to provide:
+To provide:
 
-✅ Environmental Change Detection
-
-✅ Biodiversity Risk Assessment
-
-✅ Early Warning Alerts
-
-✅ Predictive Environmental Intelligence
-
-✅ Real-Time Monitoring Dashboard
+- ✅ Environmental Change Detection
+- ✅ Biodiversity Risk Assessment
+- ✅ Early Warning Alerts
+- ✅ Predictive Environmental Intelligence
+- ✅ Real-Time Monitoring Dashboard
 
 ---
 
@@ -75,7 +81,7 @@ Provide real-time environmental intelligence for authorities and researchers.
 - FastAPI
 - REST API
 
-### AI/ML
+### AI / ML
 - Python
 - OpenCV
 - Scikit-Learn
@@ -103,15 +109,12 @@ Provide real-time environmental intelligence for authorities and researchers.
 
 ## 🚀 Development Status
 
-Current Status:
+**Current Phase:** Prototype Development
 
-🔨 Prototype Development
-
-📡 Satellite Integration In Progress
-
-🤖 AI Model Development In Progress
-
-📊 Dashboard Development In Progress
+- 🔨 Core System Architecture Completed
+- 📡 Satellite Data Integration In Progress
+- 🤖 AI Model Development In Progress
+- 📊 Dashboard Development In Progress
 
 ---
 
@@ -123,10 +126,12 @@ To build an intelligent environmental monitoring ecosystem capable of protecting
 
 ## 👨‍💻 Developed By
 
-Mo Ryan Yunus
+**Mo Ryan Yunus**
 
 Environment & Biodiversity Innovation Project
 
 ---
 
-> 🌍 "Transforming satellite data into actionable environmental intelligence."
+<p align="center">
+<b>🌍 Transforming satellite data into actionable environmental intelligence.</b>
+</p>
