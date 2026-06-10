@@ -16,13 +16,13 @@ Our mission is simple:
 
 ---
 
-## 🚨 Problem We Are Solving
+## 🚨 Problem I am Solving
 
 Environmental degradation and biodiversity loss are often detected too late, limiting timely conservation efforts and environmental protection.
 
 ---
 
-## 💡 Our Solution
+## 💡 My Solution
 
 ZeryRoot-AI continuously analyzes:
 
@@ -123,7 +123,7 @@ To build an intelligent environmental monitoring ecosystem capable of protecting
 
 ## 👨‍💻 Developed By
 
-Team ZeryRoot-AI
+Mo Ryan Yunus
 
 Environment & Biodiversity Innovation Project
 
