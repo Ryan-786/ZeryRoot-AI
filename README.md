@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Zeryroot.jpeg" alt="ZeryRoot-AI Logo" width="250">
+  <img src="Zeryrootlogo.jpeg" alt="ZeryRoot-AI Logo" width="250">
 </p>
 
 <h1 align="center">🌍 ZeryRoot-AI</h1>
